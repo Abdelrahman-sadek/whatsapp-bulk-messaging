@@ -48,6 +48,11 @@ A compliant, scalable bulk messaging platform built with Next.js, Convex, and wh
 
 ## 🚀 **Quick Start**
 
+### **Deploy to Vercel** (1-Click)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/whatsapp-bulk-messaging&env=NEXT_PUBLIC_CONVEX_URL,CONVEX_DEPLOYMENT&envDescription=Convex%20configuration%20required&envLink=https://docs.convex.dev/getting-started)
+
+### **Or Deploy Manually**
+
 ### 1. **Clone & Install**
 ```bash
 git clone https://github.com/yourusername/whatsapp-bulk-messaging.git

@@ -2,20 +2,5 @@
   "framework": "nextjs",
   "buildCommand": "npm run build",
   "devCommand": "npm run dev",
-  "installCommand": "npm install",
-  "functions": {
-    "src/app/api/**/*.ts": {
-      "runtime": "nodejs18.x"
-    }
-  },
-  "env": {
-    "NEXT_PUBLIC_CONVEX_URL": "@convex_url",
-    "CONVEX_DEPLOYMENT": "@convex_deployment"
-  },
-  "build": {
-    "env": {
-      "NEXT_PUBLIC_CONVEX_URL": "@convex_url",
-      "CONVEX_DEPLOYMENT": "@convex_deployment"
-    }
-  }
+  "installCommand": "npm install"
 }
